@@ -1,6 +1,6 @@
 # HTTP Load Tester
 
-A simple Python script that allows you to quickly test the load on your website by making a configurable number of concurrent requests.
+A simple Python script that allows you to quickly test the load on your website by making a configurable number of concurrent requests. This is something I use on my projects so I thought I'd open-source it.
 
 ## Features
 - Asynchronous requests using the `aiohttp` library for efficient handling of many requests
